@@ -116,3 +116,5 @@
   </a></p><p align="center">
 <img align="center" src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" height="200"/>
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bianca11810&theme=tokyonight)
