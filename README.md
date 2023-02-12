@@ -113,8 +113,10 @@
       width="40"
       height="40"
       style="max-width: 100%;">
-  </a></p><p align="center">
-<img align="center" src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" height="200"/>
-</p>
+  </a></p>
+  <div align="center" style="display: flex; flex-direction: row; style=margin-right: 30px">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=bianca11810&theme=tokyonight" />
+ <img align="center" src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" height="200"/>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bianca11810&theme=tokyonight)
+
