@@ -1,7 +1,7 @@
 <h1 align="center">
   Bianca Murillo
 </h1><h3>
- I'm a full stack developer passionate about learning and getting to experiment with code. When I'm not coding I'm usually watching game theoies or my favorite shows while recharging my social battery! :video_game:
+ I'm a full stack developer passionate about learning and getting to experiment with code. When I'm not coding I'm usually watching game theories or my favorite shows while recharging my social battery! :video_game:
 </h3><p align="center">
   <img src="https://media4.giphy.com/media/VwTkahUrtFwNMC9FRj/giphy.gif" height="200"/>
 </p><h2>About Me</h2>
